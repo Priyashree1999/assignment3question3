@@ -11,5 +11,5 @@ def counting_letters(a):
     return   
 
 string ='The quick Brow Fox '
-l=counting_letters(string)
+counting_letters(string)
 

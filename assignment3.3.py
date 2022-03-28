@@ -11,5 +11,6 @@ def counting_letters(a):
     return   
 
 string ='The quick Brow Fox '
+print("Sample string :",string)
 counting_letters(string)
 
